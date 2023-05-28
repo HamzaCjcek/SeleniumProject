@@ -1,0 +1,6 @@
+/.idea
+/target
+*.iml
+
+/raporlar
+/test-output
